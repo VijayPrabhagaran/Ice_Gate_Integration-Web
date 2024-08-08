@@ -1,0 +1,18 @@
+.front-page-container {
+    text-align: center;
+    padding: 50px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 50px auto;
+    width: 50%;
+}
+
+.front-page-container h1 {
+    margin-bottom: 30px;
+}
+
+.front-page-container button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
