@@ -17,14 +17,13 @@ import { MatNativeDateModule } from '@angular/material/core';
 import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { FormsModule } from '@angular/forms';
 import { MatIconModule } from '@angular/material/icon';
-import { IceGateLoginPageComponent } from './ice-gate-login-page/ice-gate-login-page.component';
+
 
 @NgModule({
   declarations: [
     AppComponent,
     IceGateFormPageComponent,
     ICeGateListPageComponent,
-    IceGateLoginPageComponent
   ],
   imports: [
     BrowserModule,
